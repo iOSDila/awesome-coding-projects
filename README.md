@@ -5,7 +5,7 @@
 
 
 
-# awesome-coding-projects
+# Awesome-Coding-Projects
 This repository contains coding projects one can build with different difficulty levels.
 
 # Beginner
